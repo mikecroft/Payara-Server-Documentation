@@ -51,6 +51,7 @@
     * [Notifiers](documentation/extended-documentation/notification-service/notifiers/notifiers.md)
       * [Hipchat Notifier](documentation/extended-documentation/notification-service/notifiers/hipchat-notifier.md)
       * [Slack Notifier](documentation/extended-documentation/notification-service/notifiers/slack-notifier.md)
+      * [JMS Notifier](documentation/extended-documentation/notification-service/notifiers/jms-notifier.md)
   * [Request Tracing Service](documentation/extended-documentation/request-tracing-service/request-tracing-service.md)
     * [Asadmin Commands](documentation/extended-documentation/request-tracing-service/asadmin-commands.md)
     * [Configuration](documentation/extended-documentation/request-tracing-service/configuration.md)
@@ -110,7 +111,7 @@
 ## Appendices
 
 * [History of Release Notes](release-notes/release-notes-history.md)
-  * [Payara Server 4.1.1.171 Release Notes](release-notes/release-notes-171.md) 
+  * [Payara Server 4.1.1.171 Release Notes ](release-notes/release-notes-171.md)
   * [Payara Server 4.1.1.164 Release Notes](release-notes/release-notes-164.md)
   * [Payara Server 4.1.1.163 Release Notes](release-notes/release-notes-163.md)
   * [Payara Server 4.1.1.162 Release Notes](release-notes/release-notes-162.md)
@@ -122,3 +123,4 @@
   * [Payara Server 4.1.152 Release Notes](release-notes/release-notes-152.md)
   * [Payara Server 4.1.151 Release Notes](release-notes/release-notes-151.md)
   * [Payara Server 4.1.144 Release Notes](release-notes/release-notes-144.md)
+
