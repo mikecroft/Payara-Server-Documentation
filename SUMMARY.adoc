@@ -18,8 +18,7 @@
 [[technical-documentation]]
 == Technical Documentation
 
-* link:documentation/payara-server-documentation/core-documentation.adoc[Core Documentation]
-* link:documentation/payara-server-documentation/extended-documentation.adoc[Extended Documentation]
+* link:documentation/payara-server-documentation/payara-server-documentation.adoc[Payara Server Documentation]
 ** link:documentation/payara-server-documentation/admin-console/admin-console.adoc[Admin Console Enhancements]
 *** link:documentation/payara-server-documentation/admin-console/asadmin-recorder.adoc[Asadmin Recorder]
 *** link:documentation/payara-server-documentation/admin-console/environment-warning.adoc[Environment Warning]
