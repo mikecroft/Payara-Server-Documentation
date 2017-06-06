@@ -43,7 +43,7 @@ asadmin> notification-configure --enabled=true --dynamic=true
 Lists available notifiers to use with the service. These can then
 be configured individually or referenced by other service commands, for
 example the
-link:/documentation/extended-documentation/request-tracing-service/asadmin-commands.adoc#requesttracing-configure-notifier[`requesttracing-configure-notifier`]
+link:/documentation/payara-server-documentation/request-tracing-service/asadmin-commands.adoc#requesttracing-configure-notifier[`requesttracing-configure-notifier`]
 command.
 
 [[command-options-1]]

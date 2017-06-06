@@ -101,7 +101,7 @@ asadmin set-asadmin-recorder-configuration --enabled true --outputLocation /home
 == Running the Generated Scripts
 
 Documentation on running asadmin scripts can be found in the
-link:/documentation/core-documentation/core-documentation.adoc[Core Documentation], in
+link:/documentation/payara-server-documentation/payara-server-documentation.adoc[Core Documentation], in
 the GlassFish Server Administration Guide, under the _Run a Set of asadmin Subcommands From a File_ section.
 
 [[asadmin-commands]]

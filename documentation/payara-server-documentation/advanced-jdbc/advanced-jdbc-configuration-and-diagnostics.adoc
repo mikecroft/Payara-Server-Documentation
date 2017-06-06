@@ -59,6 +59,6 @@ Properties] for detailed information.
 [[jdbc-connection-validation-changes]]
 == JDBC Connection Validation Changes
 
-See the link:/documentation/core-documentation/jdbc/jdbc-connection-validation.adoc[JDBC Connection Validation page]
+See the link:/documentation/payara-server-documentation/jdbc/jdbc-connection-validation.adoc[JDBC Connection Validation page]
 in the core documentation for information on changes between GlassFish Server
 and Payara Server's *JDBC Connection Validation*.

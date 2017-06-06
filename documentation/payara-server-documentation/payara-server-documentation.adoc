@@ -1,0 +1,7 @@
+[[payara-server-documentation]]
+= Payara Server Documentation
+
+Documentation of Payara Server features. Also documented here are certain core
+features shared with GlassFish, though features which are also documented by
+GlassFish are not duplicated unless they are needed to fully document a Payara
+Server feature.

@@ -1,4 +1,4 @@
-[[core-documentation]]
+[[payara-server-documentation]]
 = Core Documentation
 
 JACC stands for *Java Authentication Contract for Containers*. It's defined in

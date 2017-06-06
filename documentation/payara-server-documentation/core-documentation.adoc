@@ -1,4 +1,4 @@
-[[core-documentation]]
+[[payara-server-documentation]]
 = Core Documentation
 
 Documentation of core features, shared with _GlassFish Server 4 Open_
